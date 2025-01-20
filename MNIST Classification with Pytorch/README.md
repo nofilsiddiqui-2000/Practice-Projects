@@ -20,8 +20,9 @@ Welcome to my project on MNIST classification! This project demonstrates how to 
 
 1. **Clone the Repository**:
    ```bash
-   git clone <repo-link>
-   cd <repo-directory>
+   git clone https://github.com/nofilsiddiqui-2000/Practice-Projects.git
+   cd "Practice-Projects/MNIST Classification with Pytorch"
+
 
 2. Install Dependencies:
 Make sure you have Python and PyTorch installed. Then, install the required libraries:
