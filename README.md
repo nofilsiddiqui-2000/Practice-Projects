@@ -1,4 +1,4 @@
-# 🚀 Nofil's Practice Projects Repository 🎨
+# 🚀 My Practice Projects Repository 🎨
 
 Welcome to my **Practice Projects** repository! This is my creative playground where I experiment, learn, and build cool stuff while having loads of fun with code. Whether it’s mastering a new framework, solving a challenging problem, or just trying out something quirky, you’ll find it all here! 🌟
 
