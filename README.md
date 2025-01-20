@@ -44,8 +44,8 @@ You might find some quirky and out-of-the-box ideas here.
 🧑‍💻 About Me
 Hi! I’m Nofil Siddiqui, a tech enthusiast who loves exploring new technologies, solving problems, and turning ideas into reality. When I’m not coding, I’m probably:
 
-Dreaming about piezoelectric sensors and actuators.
-Exploring how AI can make life easier.
+Playing games and exploring new worlds. 🎮
+Watching tech videos and staying up-to-date with the latest trends. 📺
 Thinking about my next fun project for this repo. 😎
 
 🤝 Contributions
